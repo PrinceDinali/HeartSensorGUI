@@ -9,3 +9,8 @@ Measurement Control: Start, stop, and restart data measurements with ease.
 Real-Time Graphing: Continuously graph the collected data during measurements.  
 Data Export: Save collected data in a .txt format after measurements are complete.  
 Multithreading: Ensures smooth and continuous data collection and graphing.
+
+## Example
+![Screenshot 2024-07-11 095717](https://github.com/PrinceDinali/HeartSensorGUI/assets/96704240/dd77d971-386e-4308-8c4a-7728363066dc)
+
+
