@@ -4,9 +4,8 @@ This project is a Python-based software application designed to collect and disp
 
 ## Features
 Serial Communication: Communicates with the Arduino via a USB serial connection.  
-
-GUI Interface: Easy-to-use GUI for selecting ports, subjects, and data parameters.
-Measurement Control: Start, stop, and restart data measurements with ease.
-Real-Time Graphing: Continuously graph the collected data during measurements.
-Data Export: Save collected data in a .txt format after measurements are complete.
+GUI Interface: Easy-to-use GUI for selecting ports, subjects, and data parameters.  
+Measurement Control: Start, stop, and restart data measurements with ease.  
+Real-Time Graphing: Continuously graph the collected data during measurements.  
+Data Export: Save collected data in a .txt format after measurements are complete.  
 Multithreading: Ensures smooth and continuous data collection and graphing.
